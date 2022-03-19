@@ -1,7 +1,7 @@
 # Electric-Grid-Fault-Prediction
 Machine Learning Model for prediction of fault in Electrical Grid
 
-https://github.com/ArinDanish/Electric-Grid-Fault-Prediction/blob/main/grid.jpg
+![Screenshot](grid.jpg)
 
 The amount of electricity fed into the electricity grid must always be equal to the amount of electricity consumed, otherwise there's a black-out.With the increase in renewable energy production, which varies greatly depending on the weather, may lead to black-out. 
 This black-out will turn in to loss of generation which tends to reduce revenue of the company. Also very recently in Mar-22, CERC (Indian regulation authority) has notified regulation for power scheduling and forecasting, which will lead to penalty in case of under injection of energy in the grid as per scheduled energy.
