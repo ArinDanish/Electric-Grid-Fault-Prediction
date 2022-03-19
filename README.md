@@ -1,6 +1,5 @@
 # Electric-Grid-Fault-Prediction
 Machine Learning Model for prediction of fault in Electrical Grid
-
 ![Screenshot](grid.jpg)
 
 The amount of electricity fed into the electricity grid must always be equal to the amount of electricity consumed, otherwise there's a black-out.With the increase in renewable energy production, which varies greatly depending on the weather, may lead to black-out. 
