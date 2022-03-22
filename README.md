@@ -17,3 +17,8 @@ For this problem, I have used data set from Kaggle. This data set contains vario
 •	0 1 1 1 - LLL Fault(Between all three phases)
 
 •	1 1 1 1 - LLLG fault( Three phase symmetrical fault)
+
+
+
+https://user-images.githubusercontent.com/94790472/159470339-42893808-5104-482a-8ae4-e5f0f1276f57.mp4
+
